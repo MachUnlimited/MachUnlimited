@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MachUnlimited - ATAKAN CAKİR
+- 👋 Hi, I’m @MachUnlimited - ATAKAN CAKIR
 - 👀 I’m interested in DIGITAL HARDWARE DESIGN
 - 🌱 I’m currently learning VHDL FOR DIGITAL HARDWARE DESIGN
 - 📫 How to reach me ... CONTACT ME atakancakir38@gmail.com 
